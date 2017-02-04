@@ -1,0 +1,1 @@
+sametype and control bit
